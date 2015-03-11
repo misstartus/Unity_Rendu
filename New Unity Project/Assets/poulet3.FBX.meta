@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 16c9f41f1fee0a3429279708562e2ff3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BE_L_leg
+    100002: BE_L_Wing
+    100004: BE_L_Wing01
+    100006: BE_L_Wing02
+    100008: BE_Rleg
+    100010: BN_L_leg
+    100012: BN_R_Wing01
+    100014: BN_R_Wing0101
+    100016: BN_R_Wing0102
+    100018: BN_Root
+    100020: BN_Writleg
+    100022: Bo__te001
+    100024: //RootNode
+    100026: "Bo\xEEte001"
+    400000: BE_L_leg
+    400002: BE_L_Wing
+    400004: BE_L_Wing01
+    400006: BE_L_Wing02
+    400008: BE_Rleg
+    400010: BN_L_leg
+    400012: BN_R_Wing01
+    400014: BN_R_Wing0101
+    400016: BN_R_Wing0102
+    400018: BN_Root
+    400020: BN_Writleg
+    400022: Bo__te001
+    400024: //RootNode
+    400026: "Bo\xEEte001"
+    4300000: Bo__te001
+    4300002: "Bo\xEEte001"
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bo__te001
+    13700002: "Bo\xEEte001"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BN_Root
+        weight: 1
+      - path: BN_Root/BE_L_Wing01
+        weight: 1
+      - path: BN_Root/BE_L_Wing01/BE_L_Wing02
+        weight: 1
+      - path: BN_Root/BE_L_Wing01/BE_L_Wing02/BE_L_Wing
+        weight: 1
+      - path: BN_Root/BN_L_leg
+        weight: 1
+      - path: BN_Root/BN_L_leg/BE_L_leg
+        weight: 1
+      - path: BN_Root/BN_R_Wing01
+        weight: 1
+      - path: BN_Root/BN_R_Wing01/BN_R_Wing0101
+        weight: 1
+      - path: BN_Root/BN_R_Wing01/BN_R_Wing0101/BN_R_Wing0102
+        weight: 1
+      - path: BN_Root/BN_Writleg
+        weight: 1
+      - path: BN_Root/BN_Writleg/BE_Rleg
+        weight: 1
+      - path: "Bo\xEEte001"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
